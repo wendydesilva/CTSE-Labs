@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212054029574",
+    "firebase_url": "https://ctse-app-db-df530.firebaseio.com",
+    "project_id": "ctse-app-db-df530",
+    "storage_bucket": "ctse-app-db-df530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212054029574:android:7088776471f0b061d25a87",
+        "android_client_info": {
+          "package_name": "com.example.ctse_lab_four"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212054029574-6kplr2rld5u923n3cnq2hki1u02tca23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3cYMtGc1KGl42LSm8Va7uBraL7_f9_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212054029574-6kplr2rld5u923n3cnq2hki1u02tca23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
